@@ -8,3 +8,5 @@ One pod
 One deployments 
 One replicaset
 One services
+
+Lifecycle mangement is too complex
